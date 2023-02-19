@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Royal Milk Tea",
+      "price": 4.8,
+      "toppings": "Milk Foam,White Pearl",
+      "trend": "Trending"
+    },
+    {
+      "id": 2,
+      "name": "Green Milk Tea",
+      "price": 4.6,
+      "toppings": "Pearl, Cream"
+    },
+    {
+      "id": 3,
+      "name": "Oolong Milk Tea",
+      "price": 5.1,
+      "toppings": "Pearl, Milk Foam"
+    },
+    {
+      "id": 4,
+      "name": "Blueberry Milk Tea",
+      "price": 5.1,
+      "toppings": "Pearl, Milk Foam"
+    },
+    {
+      "id": 5,
+      "name": "Mango Milk Tea",
+      "price": 5.1,
+      "toppings": "Aloe, Pearl"
+    },
+    {
+      "id": 6,
+      "name": "Apple Milk Tea",
+      "price": 5.1,
+      "toppings": "Milk Foam, Mango"
+    }
+  ]
+}
